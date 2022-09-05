@@ -3,7 +3,7 @@ Fix For ShowHiddenChannels plugin
 
 Hello everyone this is fix for showhiddenchannels plugin
 
-Fixed by Minixsas#9999 and Dimaguy#7491
+Fixed by Minixsas and Dimaguy
 
 How to use:
 
