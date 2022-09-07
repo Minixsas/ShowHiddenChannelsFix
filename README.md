@@ -3,9 +3,13 @@ Fix For ShowHiddenChannels plugin
 
 Hello everyone this is fix for showhiddenchannels plugin
 
-(Temporarily) Fixed by Dimaguy and tested by Minixsas
+(temporarily) Fixed by Dimaguy and Minixsas
 
 In it's current state it won't survive main library updates
+
+Update:
+
+Library just updated and if you download the files again and replace them again it will still work, our fix might be permanent.
 
 How to use:
 
